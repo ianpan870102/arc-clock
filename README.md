@@ -1,5 +1,5 @@
 # arc-clock
-A designer clock display right in your browser, using p5.js
+A designer clock display right in your browser, using p5.js (and very customizable as well!)
 
 
 The programme consists of two simple files: an `index.html` and a `sketch.js`
