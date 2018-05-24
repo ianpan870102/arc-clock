@@ -3,7 +3,8 @@ A designer clock display right in your browser, using p5.js
 
 
 The programme consists of two simple files: an `index.html` and a `sketch.js`
-Simply open the file you downloaded in your preferred browser and -- voilà! A designer arc clock that you can tweak to your heart's content.
+
+Download the repo and simply open the HTML file in your preferred browser and -- voilà! A designer arc clock that you can tweak to your heart's content.
 
 **Below is a screenshot preview:**
 
