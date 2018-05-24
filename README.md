@@ -8,4 +8,6 @@ Download the repo and simply open the HTML file in your preferred browser and --
 
 **Below is a screenshot preview:**
 
+*As you might have guessed, the inner-most arc represents hour, and so on.*
+
 <img src="./images/Screen Shot 2018-05-24 at 10.21.37.png" width=250>
